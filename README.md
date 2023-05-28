@@ -15,4 +15,6 @@ https://pyviz.org/dashboarding/
 -  voila
 -  Streamlit
 -  bokeh, ipywidgets (jupyter ) matplotlib, Bowtie, Flask
-![alt text]([http://url/to/img.png](https://pyviz.org/_static/logo.png))
+![alt text](https://pyviz.org/_static/logo.png)
+
+
