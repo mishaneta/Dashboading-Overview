@@ -11,8 +11,8 @@
 https://pyviz.org/dashboarding/
 
 - Dash from Plotfy (Flask, React)
-- Panel (Matplotlib, hadoos, jupyter notebook)
+- Panel from Anaconda (Matplotlib, hadoos, jupyter notebook)
 -  voila
 -  Streamlit
 -  bokeh, ipywidgets (jupyter ) matplotlib, Bowtie, Flask
-
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://pyviz.org/_static/logo.png)?raw=true)
